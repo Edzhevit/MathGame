@@ -1,5 +1,5 @@
 # MathGame
-Math game represents a simple game that checks if the result of two numbers are correct or not.
+Math game represents a simple android game that checks if the result of two numbers are correct or not.
 
 If the result is true you level up and your score gets higher.
 
